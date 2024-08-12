@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KmpMovies</string>
+    <string name="back">Volver</string>
+    <string name="original_language">Idioma original</string>
+    <string name="original_title">Título original</string>
+    <string name="release_date">Fecha lanzamiento</string>
+    <string name="popularity">Popularidad</string>
+    <string name="vote_average">Votos</string>
+</resources>
